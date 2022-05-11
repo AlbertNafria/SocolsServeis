@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ioc.dam.m9.uf3.eac2.b1;
+package dev.albertnafria.eac2.b1;
 
 import java.io.*;
 import java.util.Scanner;
